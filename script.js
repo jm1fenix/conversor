@@ -24,4 +24,4 @@ function converte(){
         alert(resultado)
     }
     document.getElementById("r").innerHTML = resultado
-}
+} 
